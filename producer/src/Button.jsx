@@ -1,3 +1,6 @@
+// adding this css line makes the styles work 
+import "./index.css";
+
 const Button = ({ children, onClick }) => {
   return (
     <button
